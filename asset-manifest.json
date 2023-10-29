@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-MovieFlix/static/css/main.3185b115.css",
+    "main.js": "/react-MovieFlix/static/js/main.feaf7e82.js",
+    "static/media/no-poster.png": "/react-MovieFlix/static/media/no-poster.de8cb0a7786e6bf2b2de.png",
+    "static/media/avatar.png": "/react-MovieFlix/static/media/avatar.0affc1eeb2b145c80bd1.png",
+    "static/media/no-results.png": "/react-MovieFlix/static/media/no-results.2d2c6ee352de3daf8a56.png",
+    "index.html": "/react-MovieFlix/index.html",
+    "main.3185b115.css.map": "/react-MovieFlix/static/css/main.3185b115.css.map",
+    "main.feaf7e82.js.map": "/react-MovieFlix/static/js/main.feaf7e82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3185b115.css",
+    "static/js/main.feaf7e82.js"
+  ]
+}
