@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color: black;
+    // position: fixed;
+    z-index: 15;
+    width: 100%;
+    .logo{
+        color: white !important;
+        font-size: 30px;
+        text-shadow: 2px 2px 2px #ccc, 3px 3px 3px #ccc;
+        cursor: pointer;
+    }
+}

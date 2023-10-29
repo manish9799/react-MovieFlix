@@ -1,0 +1,45 @@
+.footer {
+    text-align: center;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+    border-top: 1px solid white;
+    .footer-col {
+        width: 60%;
+        margin: 0 auto;
+        padding: 8px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        text-align: center;
+        .icon {
+            color: white;
+            font-size: 35px;
+        }
+        .icon :hover {
+            color: rgb(35, 241, 231);
+        }
+    }
+    .about-col {
+        padding: 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+
+        .about {
+            color: white;
+            font-size: 15px;
+        }
+        .about:hover {
+            color: rgb(35, 241, 231);
+
+        }
+    }
+    .copyright {
+        color: white;
+        padding: 8px;
+    }
+    .copyright:hover {
+        color: rgb(250, 45, 45);
+    }
+}
